@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c\u002B\u002B\\c\u002B\u002Bpracticekniga\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F080EA-A6B9-4B3B-8555-3D41D969463F}|c\u002B\u002Bpracticekniga.vcxproj|E:\\c\u002B\u002B\\c\u002B\u002Bpracticekniga\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1F080EA-A6B9-4B3B-8555-3D41D969463F}|c\u002B\u002Bpracticekniga.vcxproj|solutionrelative:FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "E:\\c\u002B\u002B\\c\u002B\u002Bpracticekniga\\FileName.cpp",
+              "RelativeDocumentMoniker": "FileName.cpp",
+              "ToolTip": "E:\\c\u002B\u002B\\c\u002B\u002Bpracticekniga\\FileName.cpp",
+              "RelativeToolTip": "FileName.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-21T20:02:42.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
